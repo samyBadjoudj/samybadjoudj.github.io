@@ -1,1 +1,1 @@
-[Gradient Descent](https://samy.badjoudj.github.io)
+[Gradient Descent](https://samybadjoudj.github.io)
